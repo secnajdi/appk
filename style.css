@@ -1,0 +1,16 @@
+/* .di{
+    width: ;
+} */
+ button{
+    color: #1e293b !important;
+ }
+ul{
+    font-family: "yek";
+    border: 0;
+}
+
+
+ @font-face {
+    font-family: yek;
+    src: url("IRANYekanWebRegular.woff");
+ }
